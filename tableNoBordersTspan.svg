@@ -1,0 +1,47 @@
+<?xml version='1.0' standalone='no'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN'
+  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width='100%' height='100%' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+
+   <title>SVG Table</title>
+
+   <g id='rowGroup' transform='translate(0, 0)'>
+      <!-- <rect x='25' y='40' width='350' height='20' fill='gainsboro'/> -->
+      <!-- <rect x='25' y='76' width='350' height='20' fill='gainsboro'/> -->
+
+      <text x='30' y='30' font-size='16px' font-weight='bold'>
+         <tspan x='30' dy='1.5em' font-weight='bold' text-anchor='start'></tspan>
+         <tspan x='80'>Sales</tspan>
+         <tspan x='150'>Expenses</tspan>
+         <tspan x='250'>Net</tspan>
+      </text>
+
+      <text x='30' y='30' font-size='16px'>
+         <tspan x='30' dy='1.5em' font-weight='bold' text-anchor='start'>Q1</tspan>
+         <tspan x='80'>$223</tspan>
+         <tspan x='150'>$195</tspan>
+         <tspan x='250'>$28</tspan>
+      </text>
+
+      <text x='30' y='30' font-size='16px'>
+         <tspan x='30' dy='2.5em' font-weight='bold' text-anchor='start'>Q2</tspan>
+         <tspan x='80'>$183</tspan>
+         <tspan x='150'>$70</tspan>
+         <tspan x='250'>$113</tspan>
+      </text>
+
+      <text x='30' y='30' font-size='16px'>
+         <tspan x='30' dy='3.5em' font-weight='bold' text-anchor='start'>Q3</tspan>
+         <tspan x='80'>$277</tspan>
+         <tspan x='150'>$88</tspan>
+         <tspan x='250'>$189</tspan>
+      </text>
+
+      <text x='30' y='30' font-size='16px'>
+         <tspan x='30' dy='4.5em' font-weight='bold' text-anchor='start'>Q4</tspan>
+         <tspan x='80'>$402</tspan>
+         <tspan x='150'>$133</tspan>
+         <tspan x='250'>$269</tspan>
+      </text>
+   </g>
+</svg>
